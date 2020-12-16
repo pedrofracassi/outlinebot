@@ -1,0 +1,11 @@
+{
+  "name": "crowdin-discord-webhooks",
+  "version": "1.0.0",
+  "description": "Discord Webhooks for Crowdin Projects",
+  "main": "index.js",
+  "author": "Pedro Fracassi <pedroluizfracassi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

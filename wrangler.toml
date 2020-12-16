@@ -1,0 +1,5 @@
+name = "outlinebot"
+type = "webpack"
+account_id = "6355ed5383786cc4c49a82c36d18531b"
+route = "outlinebot.pedrofracassi.workers.dev/*"
+zone_id = "3760b176c24a959b8ed90eddce043dfc"
